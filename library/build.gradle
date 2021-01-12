@@ -40,8 +40,8 @@ ext {
 
     libraryDescription = 'Tachiyomi library to create new catalogues'
 
-    siteUrl = 'https://github.com/tachiyomiorg/extensions-lib'
-    gitUrl = 'https://github.com/tachiyomiorg/extensions-lib.git'
+    siteUrl = 'https://github.com/clarencecastillo/extensions-lib'
+    gitUrl = 'https://github.com/clarencecastillo/extensions-lib.git'
 
     licenseName = 'The Apache Software License, Version 2.0'
     licenseUrl = 'http://www.apache.org/licenses/LICENSE-2.0.txt'

@@ -12,6 +12,8 @@ interface SChapter {
 
     var scanlator: String?
 
+    var page_count: Int?
+
     companion object {
         fun create(): SChapter {
             throw Exception("Stub!")
