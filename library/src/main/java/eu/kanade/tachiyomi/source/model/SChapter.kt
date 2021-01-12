@@ -12,7 +12,7 @@ interface SChapter {
 
     var scanlator: String?
 
-    var page_count: Int?
+    var page_count: Int
 
     companion object {
         fun create(): SChapter {
